@@ -45,6 +45,25 @@ Before analysis, the dataset required several cleaning steps:
 
 ---
 
+## Analytical Approach
+
+Several pivot-table analyses were conducted to investigate the main performance drivers:
+
+### Sales Trend Analysis
+Examined yearly sales evolution to identify growth patterns over time.
+
+### Product Category Analysis
+Compared revenue and profit contributions across product categories.
+
+### Regional Performance Analysis
+Analyzed differences in sales and profit performances across regions.
+
+### Customer Analysis
+Identified the **Top 5 customers** contributing the highest revenue.
+
+### Seasonality Analysis
+Evaluated monthly sales patterns to detect seasonal demand trends.
+
 ## Analytical Investigation
 
 During the exploratory analysis, a temporary decline in sales was observed between 2014 and 2015.
