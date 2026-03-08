@@ -112,10 +112,23 @@ Based on the analysis, several actions could help improve performance:
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Data Cleaning Functions
-- Interactive Slicers
+- Data Cleaning Functions (TRIM, PROPER etc)
+- Slicers for interactivity Dashbaord preview
 
 ---
+
+## Dashboard Features
+
+The final dashboard was built entirely in **Microsoft Excel** and includes:
+
+- Interactive slicers (Year, Region, Month)
+- KPI summary metrics
+- Sales trend visualization
+- Category performance comparison
+- Top customers ranking
+- Monthly sales trend
+
+Users can dynamically filter the data to explore different perspectives of the business.
 
 ## Dashboard Preview
 
@@ -131,6 +144,7 @@ Based on the analysis, several actions could help improve performance:
 
 ## Future Improvements
 
-- Rebuild the dashboard using **Power BI**
-- Perform deeper analysis using **SQL**
-- Conduct advanced analysis with **Python**
+Possible extension of this project includes :
+- Rebuilding the dashboard using **Power BI**
+- Performing deeper analysis using **SQL**
+- Using **Python** (Pandas / Matplotlib) for advanced analysics
