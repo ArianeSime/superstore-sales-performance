@@ -144,6 +144,9 @@ Users can dynamically filter the data to explore different perspectives of the b
 
 ![Dashboard](Superstore_dashboard_preview.PNG)
 
+Note: GitHub cannot render Excel pivot charts correctly in the browser preview.  
+Please download the Excel file to explore the fully interactive dashboard.
+
 ---
 
 ## Files in This Repository
